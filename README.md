@@ -31,7 +31,6 @@ Traditional mouse devices can be limiting or inaccessible in certain scenarios. 
 | **Double Click**| Both fingers V-shape      | ![](images/double_click.png) |
 | **Screenshot**  | All fingers together      | ![](images/screenshot.png)   |
 
-> 💡 You can replace the images in `images/` folder with your own screenshots.
 
 ---
 
