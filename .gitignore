@@ -1,0 +1,11 @@
+# Ignore the virtual environment
+venv310/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS or IDE-specific files
+.DS_Store
+*.log
