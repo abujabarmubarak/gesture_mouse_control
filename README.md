@@ -143,7 +143,7 @@ These rules are calculated using `get_angle()` and `get_distance()` functions in
 **Abu Jabar Mubarak**  
 B.Tech in Computer Science & Business System  
 Leader of multiple technical events and AI/ML challenges 💡  
-GitHub: [github.com/yourusername](https://github.com/yourusername)
+GitHub: [github.com/abujabarmubarak](https://github.com/abujabarmubarak)
 
 ---
 
